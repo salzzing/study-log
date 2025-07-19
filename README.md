@@ -1,1 +1,1 @@
-# salzzing-learning
+# study-log
