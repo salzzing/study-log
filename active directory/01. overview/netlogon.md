@@ -4,8 +4,6 @@
 
 <br>
 
----
-
 ## ◼️ 주요 내용
 #### ✔️ 경로
 - C:\Windows\SYSVOL\sysvol\<도메인 이름>\scripts

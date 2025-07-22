@@ -3,8 +3,6 @@
 
 <br>
 
----
-
 ## ◼️ 주요 내용
 #### 1️⃣ SYSVOL
 - 위치 : C:\Windows\SYSVOL\sysvol
