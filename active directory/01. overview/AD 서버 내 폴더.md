@@ -43,7 +43,7 @@
 <br>
 
 #### 5️⃣ Policies
-- 위치 : C:\Windows\SYSVOL\{도메인명}\Policies
+- 위치 : C:\Windows\SYSVOL\\{도메인명}\Policies
 - 역할
   - GPO 객체의 **실제 정책 파일** 저장 (gpt.ini 등)
   - 그룹 정책 편집기에서 설정한 정책을 파일 형태로 저장
@@ -52,7 +52,7 @@
 <br>
 
 #### 6️⃣ Netlogon (공유 폴더)
-- 위치 : C:\Windows\SYSVOL\{도메인명}\scripts
+- 위치 : C:\Windows\SYSVOL\\{도메인명}\scripts
 - 공유 경로 : \\\domain.com\NETLOGON
 - 역할
   - 사용자 로그인 시 실행되는 로그온 스크립트 저장
